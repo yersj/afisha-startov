@@ -490,17 +490,6 @@ function Editor({race, onClose, onSave}){
   </div>`;
 }
 
-function ClubName({club, isAdmin, onRename}){
-  const [edit,setEdit] = useState(false); const [val,setVal] = useState('');
-  if (edit) return html`<div class="clubedit">
-    <input id="club-input" value=${val} maxLength="60" aria-label="Название клуба" onInput=${e=>setVal(e.target.value)}
-      onKeyDown=${e=>{ if(e.key==='Enter'){ onRename(val.trim()); setEdit(false);} if(e.key==='Escape') setEdit(false); }} autoFocus/>
-    <button class="btn sm primary" onClick=${()=>{ onRename(val.trim()); setEdit(false); }}>OK</button>
-  </div>`;
-  return html`<div class="club"><small>Беговой клуб</small>${club.name || 'Наш клуб'}
-    ${isAdmin ? html` <button class="link" onClick=${()=>{ setVal(club.name||''); setEdit(true); }}>✎</button>` : null}</div>`;
-}
-
 /* ---------- app ---------- */
 function App(){
   const [races,setRaces] = useState([]);
