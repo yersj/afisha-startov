@@ -12,10 +12,12 @@
         3
       ],
       "kind": "Шоссе",
-      "note": "Также скандинавская ходьба 10 км. 3 км — детский забег.",
+      "note": "Скандинавская ходьба 10 км, детский забег 3 км. Сбор: паркинг, сектор B.",
       "series": "TAN",
       "title": "Turkistan Marathon 2026",
-      "url": "https://almaty-marathon.kz/ru/events/turkistan_marathon_2026/"
+      "url": "https://almaty-marathon.kz/ru/events/turkistan_marathon_2026/",
+      "status": "Открыто",
+      "place": "Karavan Saray, ул. Туткабаева"
     },
     {
       "id": "valencia-half-2026",
@@ -81,7 +83,8 @@
       ],
       "kind": "Шоссе",
       "url": "https://almaty-marathon.kz/ru/events/city__run_2026/",
-      "note": "Городской забег в костюмах супергероев. Также скандинавская ходьба 5 км."
+      "note": "Городской забег в костюмах супергероев. Также скандинавская ходьба 5 км.",
+      "status": "Открыто"
     },
     {
       "id": "shanghai-2026",
