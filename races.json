@@ -6,12 +6,16 @@
       "country": "Казахстан",
       "date": "2026-10-25",
       "distances": [
-        42.2
+        42.2,
+        21.1,
+        10,
+        3
       ],
       "kind": "Шоссе",
-      "note": "Дистанции и регистрацию уточняйте у организаторов.",
+      "note": "Также скандинавская ходьба 10 км. 3 км — детский забег.",
       "series": "TAN",
-      "title": "Turkistan Marathon 2026"
+      "title": "Turkistan Marathon 2026",
+      "url": "https://almaty-marathon.kz/ru/events/turkistan_marathon_2026/"
     },
     {
       "id": "valencia-half-2026",
@@ -187,7 +191,8 @@
       "note": "В 2026 году прошёл 19 апреля. Есть также скандинавская ходьба 10 км и эстафета экиден.",
       "status": "Анонс",
       "tentative": true,
-      "title": "Almaty Half Marathon 2027"
+      "title": "Almaty Half Marathon 2027",
+      "url": "https://almaty-marathon.kz/ru/"
     },
     {
       "id": "boston-2027",
@@ -258,7 +263,8 @@
       "kind": "Шоссе",
       "note": "Традиционно последнее воскресенье сентября. Дату уточняйте после анонса.",
       "series": "TAN",
-      "title": "Almaty Marathon 2027"
+      "title": "Almaty Marathon 2027",
+      "url": "https://almaty-marathon.kz/ru/"
     },
     {
       "id": "bishkek-2027",
