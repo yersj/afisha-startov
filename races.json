@@ -1,0 +1,282 @@
+{
+  "races": [
+    {
+      "id": "turkistan-2026",
+      "city": "Туркестан",
+      "country": "Казахстан",
+      "date": "2026-10-25",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "note": "Дистанции и регистрацию уточняйте у организаторов.",
+      "series": "TAN",
+      "title": "Turkistan Marathon 2026"
+    },
+    {
+      "id": "valencia-half-2026",
+      "city": "Валенсия",
+      "country": "Испания",
+      "date": "2026-10-25",
+      "distances": [
+        21.1
+      ],
+      "kind": "Шоссе",
+      "title": "Valencia Half Marathon Trinidad Alfonso Zurich 2026",
+      "url": "https://www.valenciaciudaddelrunning.com/en/half/half-marathon/"
+    },
+    {
+      "id": "nyc-dash-5k-2026",
+      "city": "Нью-Йорк",
+      "country": "США",
+      "date": "2026-10-31",
+      "distances": [
+        5
+      ],
+      "kind": "Шоссе",
+      "title": "Abbott Dash to the Finish Line 5K 2026",
+      "url": "https://www.nyrr.org/"
+    },
+    {
+      "id": "istanbul-2026",
+      "city": "Стамбул",
+      "country": "Турция",
+      "date": "2026-11-01",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Türkiye İş Bankası İstanbul Maratonu",
+      "url": "https://www.maraton.istanbul/"
+    },
+    {
+      "id": "nyc-marathon-2026",
+      "city": "Нью-Йорк",
+      "country": "США",
+      "date": "2026-11-01",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "TCS New York City Marathon 2026",
+      "url": "https://www.tcsnycmarathon.org/"
+    },
+    {
+      "id": "samarkand-2026",
+      "city": "Самарканд",
+      "country": "Узбекистан",
+      "date": "2026-11-08",
+      "distances": [
+        42.2,
+        21.1,
+        10,
+        5
+      ],
+      "kind": "Шоссе",
+      "note": "Этап серии TAN: за все 5 марафонов серии даётся отдельная медаль.",
+      "series": "TAN",
+      "title": "Samarkand Marathon 2026"
+    },
+    {
+      "id": "shanghai-2026",
+      "city": "Шанхай",
+      "country": "Китай",
+      "date": "2026-12-06",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Shanghai Marathon 2026",
+      "url": "https://www.shmarathon.com/"
+    },
+    {
+      "id": "valencia-marathon-2026",
+      "city": "Валенсия",
+      "country": "Испания",
+      "date": "2026-12-06",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Maratón Valencia Trinidad Alfonso Zurich 2026",
+      "url": "https://www.valenciaciudaddelrunning.com/en/marathon/"
+    },
+    {
+      "id": "lisbon-half-2027",
+      "city": "Лиссабон",
+      "country": "Португалия",
+      "date": "2027-03-07",
+      "distances": [
+        21.1
+      ],
+      "kind": "Шоссе",
+      "title": "EDP Lisbon Half Marathon 2027",
+      "url": "https://www.maratonaclubedeportugal.com/"
+    },
+    {
+      "id": "tokyo-2027",
+      "city": "Токио",
+      "country": "Япония",
+      "date": "2027-03-07",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Tokyo Marathon 2027",
+      "url": "https://www.marathon.tokyo/en/"
+    },
+    {
+      "id": "nyc-half-2027",
+      "city": "Нью-Йорк",
+      "country": "США",
+      "date": "2027-03-21",
+      "distances": [
+        21.1
+      ],
+      "kind": "Шоссе",
+      "title": "United Airlines NYC Half Marathon 2027",
+      "url": "https://www.nyrr.org/"
+    },
+    {
+      "id": "prague-half-2027",
+      "city": "Прага",
+      "country": "Чехия",
+      "date": "2027-04-03",
+      "distances": [
+        21.1
+      ],
+      "kind": "Шоссе",
+      "title": "Generali Prague Half Marathon 2027",
+      "url": "https://www.runczech.com/"
+    },
+    {
+      "id": "antalya-2027",
+      "city": "Анталья",
+      "country": "Турция",
+      "date": "2027-04-04",
+      "distances": [
+        42.2,
+        21.1,
+        10
+      ],
+      "kind": "Шоссе",
+      "title": "Runtalya Marathon 2027"
+    },
+    {
+      "id": "berlin-half-2027",
+      "city": "Берлин",
+      "country": "Германия",
+      "date": "2027-04-04",
+      "distances": [
+        21.1
+      ],
+      "kind": "Шоссе",
+      "title": "Generali Berlin Half Marathon 2027",
+      "url": "https://www.generali-berliner-halbmarathon.de/"
+    },
+    {
+      "id": "almaty-half-2027",
+      "city": "Алматы",
+      "country": "Казахстан",
+      "date": "2027-04-18",
+      "distances": [
+        21.1,
+        10
+      ],
+      "kind": "Шоссе",
+      "note": "В 2026 году прошёл 19 апреля. Есть также скандинавская ходьба 10 км и эстафета экиден.",
+      "status": "Анонс",
+      "tentative": true,
+      "title": "Almaty Half Marathon 2027"
+    },
+    {
+      "id": "boston-2027",
+      "city": "Бостон",
+      "country": "США",
+      "date": "2027-04-19",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Boston Marathon 2027",
+      "url": "https://www.baa.org/"
+    },
+    {
+      "id": "baku-2027",
+      "city": "Баку",
+      "country": "Азербайджан",
+      "date": "2027-05-02",
+      "distances": [
+        42.2,
+        21.1
+      ],
+      "kind": "Шоссе",
+      "note": "В 2026 году прошёл 3 мая, впервые с полной дистанцией 42 км. Дата 2027 года ожидается в начале мая.",
+      "series": "TAN",
+      "status": "Анонс",
+      "tentative": true,
+      "title": "Baku Marathon 2027",
+      "url": "https://www.marathon.az/?lang=en"
+    },
+    {
+      "id": "prague-marathon-2027",
+      "city": "Прага",
+      "country": "Чехия",
+      "date": "2027-05-02",
+      "distances": [
+        42.2
+      ],
+      "kind": "Шоссе",
+      "title": "Volkswagen Prague Marathon 2027",
+      "url": "https://www.runczech.com/"
+    },
+    {
+      "id": "astana-half-2027",
+      "city": "Астана",
+      "country": "Казахстан",
+      "date": "2027-06-06",
+      "distances": [
+        21.1,
+        10
+      ],
+      "kind": "Шоссе",
+      "note": "Обычно в начале июня (2025 — 1 июня, 2026 — 7 июня). Есть также скандинавская ходьба и эстафета экиден.",
+      "status": "Анонс",
+      "tentative": true,
+      "title": "Astana Half Marathon 2027"
+    },
+    {
+      "id": "almaty-marathon-2027",
+      "city": "Алматы",
+      "country": "Казахстан",
+      "date": "2027-09-26",
+      "distances": [
+        42.2,
+        21.1,
+        10
+      ],
+      "kind": "Шоссе",
+      "note": "Традиционно последнее воскресенье сентября. Дату уточняйте после анонса.",
+      "series": "TAN",
+      "title": "Almaty Marathon 2027"
+    },
+    {
+      "id": "bishkek-2027",
+      "city": "Бишкек",
+      "country": "Кыргызстан",
+      "date": "2027-10-10",
+      "distances": [
+        42.2,
+        21.1,
+        14,
+        5
+      ],
+      "kind": "Шоссе",
+      "note": "В 2026 году прошёл 11 октября, в 2025 — 21 сентября. Дату 2027 года следим.",
+      "series": "TAN",
+      "status": "Анонс",
+      "tentative": true,
+      "title": "Bishkek Snow Leopard Run 2027"
+    }
+  ]
+}
