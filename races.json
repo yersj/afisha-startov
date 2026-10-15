@@ -181,22 +181,6 @@
       "url": "https://www.generali-berliner-halbmarathon.de/"
     },
     {
-      "id": "almaty-half-2027",
-      "city": "Алматы",
-      "country": "Казахстан",
-      "date": "2027-04-18",
-      "distances": [
-        21.1,
-        10
-      ],
-      "kind": "Шоссе",
-      "note": "Даты 2027 года организатор ещё не объявил. В 2026 году прошёл 19 апреля. Есть также скандинавская ходьба 10 км и эстафета экиден.",
-      "status": "Анонс",
-      "tentative": true,
-      "title": "Almaty Half Marathon 2027",
-      "url": "https://almaty-marathon.kz/ru/"
-    },
-    {
       "id": "boston-2027",
       "city": "Бостон",
       "country": "США",
@@ -236,39 +220,6 @@
       "kind": "Шоссе",
       "title": "Volkswagen Prague Marathon 2027",
       "url": "https://www.runczech.com/"
-    },
-    {
-      "id": "astana-half-2027",
-      "city": "Астана",
-      "country": "Казахстан",
-      "date": "2027-06-06",
-      "distances": [
-        21.1,
-        10
-      ],
-      "kind": "Шоссе",
-      "note": "Даты 2027 года организатор ещё не объявил. В 2026 году прошёл 7 июня, в 2025 — 1 июня.",
-      "status": "Анонс",
-      "tentative": true,
-      "title": "Astana Half Marathon 2027",
-      "url": "https://almaty-marathon.kz/ru/"
-    },
-    {
-      "id": "almaty-marathon-2027",
-      "city": "Алматы",
-      "country": "Казахстан",
-      "date": "2027-09-26",
-      "distances": [
-        42.2,
-        21.1,
-        10
-      ],
-      "kind": "Шоссе",
-      "note": "Даты 2027 года организатор ещё не объявил. Традиционно последнее воскресенье сентября (в 2026 — 27 сентября).",
-      "series": "TAN",
-      "title": "Almaty Marathon 2027",
-      "url": "https://almaty-marathon.kz/ru/",
-      "tentative": true
     },
     {
       "id": "bishkek-2027",
