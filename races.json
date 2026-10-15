@@ -30,18 +30,6 @@
       "url": "https://www.valenciaciudaddelrunning.com/en/half/half-marathon/"
     },
     {
-      "id": "nyc-dash-5k-2026",
-      "city": "Нью-Йорк",
-      "country": "США",
-      "date": "2026-10-31",
-      "distances": [
-        5
-      ],
-      "kind": "Шоссе",
-      "title": "Abbott Dash to the Finish Line 5K 2026",
-      "url": "https://www.nyrr.org/"
-    },
-    {
       "id": "istanbul-2026",
       "city": "Стамбул",
       "country": "Турция",
